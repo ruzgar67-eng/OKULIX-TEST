@@ -1,0 +1,14 @@
+Package: okulix-release
+Version: 1.0
+Architecture: all
+Maintainer: Okulix Team
+Filename: pool/main/okulix-release.deb
+Size: 800
+MD5sum: b3079fb0b67c81f286582a6cf5f6e732
+SHA1: 45f10b48c4a0677bd5522fa5c7937e34787f548b
+SHA256: fc6cc2556ce698248ad21a9f4b55c6d996a47144c932071337ea289511e7513d
+Section: base
+Priority: required
+Description: Okulix resmi release paketi
+ Bu paket Okulix APT reposunu sisteme tanitir.
+
